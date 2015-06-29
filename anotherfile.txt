@@ -1,3 +1,4 @@
 Its fun learning GIT!
 learning diff command
 learning echo
+learning to skip staging
