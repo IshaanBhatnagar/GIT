@@ -1,1 +1,3 @@
 Its fun learning GIT!
+learning diff command
+learning echo
