@@ -1,2 +1,4 @@
 file one
 i sitched the branch to testing
+
+how stash works
